@@ -1,0 +1,4 @@
+ID Name City Age 
+1 Vlad Moscow 37
+2 David Tel-Aviv 52 
+3 Jack NewYork 24

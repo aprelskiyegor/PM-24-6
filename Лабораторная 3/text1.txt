@@ -1,0 +1,7 @@
+ID Name City Age
+1 John Tomsk 20
+2 Sophie Washington 15
+3 George Tbilisi 30
+4 Ruslan Erevan 18
+5 Emin Baku 32
+6 Damir Kazan 19
